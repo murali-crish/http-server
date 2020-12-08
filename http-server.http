@@ -1,3 +1,9 @@
+POST http://localhost:5000/players/Pepper
+Content-Type: application/json
+
+{}
+
+###
 GET http://localhost:5000/players/Pepper
 Accept: application/json
 
